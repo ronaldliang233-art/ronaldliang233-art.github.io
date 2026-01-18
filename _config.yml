@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Qingchuan Liang"
+title                    : "Engineering Portfolio: Qingchuan Liang"
 title_separator          : "-"
 subtitle                 : "Mechanical Engineering | Simulation | Robotics"
 name                     : "Your Name"

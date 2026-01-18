@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Qingchuan Liang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Personal Page"
-  location         : "Somewhere"
+  bio              : "Mechanical engineering student focused on simulation-driven design, CFD analysis, and experimentally grounded modeling."
+  location         : "Boston, MA"
   email            :
   links:
     - label: "Email"

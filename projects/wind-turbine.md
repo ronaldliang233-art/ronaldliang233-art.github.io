@@ -25,7 +25,7 @@ permalink: /projects/wind-turbine/
     <img src="/assets/img/wind-turbine/result.jpg" alt="Result">
   </a>
 
-    <a href="/assets/img/wind-turbine/Pressure sensors.jpg" class="image-popup">
+  <a href="/assets/img/wind-turbine/Pressure sensors.jpg" class="image-popup">
     <img src="/assets/img/wind-turbine/result.jpg" alt="Result">
   </a>
 </div>

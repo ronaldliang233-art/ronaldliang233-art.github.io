@@ -1,0 +1,12 @@
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.gallery-img {
+  width: 100%;
+  height: 220px;      /* 可以调：200 / 240 */
+  object-fit: cover;  /* 关键 */
+  border-radius: 4px; /* 可选 */
+}

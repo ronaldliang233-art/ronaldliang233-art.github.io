@@ -9,23 +9,23 @@ permalink: /projects/wind-turbine/
 ## Gallery
 
 <div class="gallery">
-  <a href="/assets/img/wind-turbine/overview.jpg" class="image-popup">
+  <a href="/assets/img/wind turbine/overview.png" class="image-popup">
     <img src="/assets/img/wind-turbine/overview.jpg" alt="Overview">
   </a>
 
-  <a href="/assets/img/wind-turbine/software ui.jpg" class="image-popup">
+  <a href="/assets/img/wind turbine/software ui.jpg" class="image-popup">
     <img src="/assets/img/wind-turbine/setup.jpg" alt="Experimental setup">
   </a>
 
-  <a href="/assets/img/wind-turbine/wind turbine#1.jpg" class="image-popup">
+  <a href="/assets/img/wind turbine/wind turbine#1.jpg" class="image-popup">
     <img src="/assets/img/wind-turbine/mesh.jpg" alt="Mesh">
   </a>
 
-  <a href="/assets/img/wind-turbine/wind turbine#2.jpg" class="image-popup">
+  <a href="/assets/img/wind turbine/wind turbine#2.jpg" class="image-popup">
     <img src="/assets/img/wind-turbine/result.jpg" alt="Result">
   </a>
 
-  <a href="/assets/img/wind-turbine/Pressure sensors.jpg" class="image-popup">
+  <a href="/assets/img/wind turbine/Pressure sensors.jpg" class="image-popup">
     <img src="/assets/img/wind-turbine/result.jpg" alt="Result">
   </a>
 </div>

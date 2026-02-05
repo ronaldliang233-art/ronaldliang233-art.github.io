@@ -6,7 +6,8 @@
 
 .gallery-img {
   width: 100%;
-  height: 220px;      /* 可以调：200 / 240 */
-  object-fit: cover;  /* 关键 */
-  border-radius: 4px; /* 可选 */
+  height: 220px;
+  object-fit: cover;
+  border-radius: 6px;
+  display: block;
 }

@@ -17,12 +17,12 @@ permalink: /projects/wind-turbine/
     <img src="/assets/img/wind_turbine/software_ui.jpg" alt="ui">
   </a>
 
-  <a href="/assets/img/wind_turbine/wind_turbine#1.jpg" class="image-popup">
-    <img src="/assets/img/wind_turbine/wind_turbine#1.jpg" alt="turbine#1">
+  <a href="/assets/img/wind_turbine/wind_turbine1.jpg" class="image-popup">
+    <img src="/assets/img/wind_turbine/wind_turbine1.jpg" alt="turbine1">
   </a>
 
-  <a href="/assets/img/wind_turbine/wind_turbine#2.jpg" class="image-popup">
-    <img src="/assets/img/wind_turbine/wind_turbine#2.jpg" alt="turbine#2">
+  <a href="/assets/img/wind_turbine/wind_turbine2.jpg" class="image-popup">
+    <img src="/assets/img/wind_turbine/wind_turbine2.jpg" alt="turbine2">
   </a>
 
   <a href="/assets/img/wind_turbine/pressure_sensors.jpg" class="image-popup">
